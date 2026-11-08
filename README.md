@@ -29,8 +29,8 @@ git log --oneline       # 看提交历史
 ## 进度
 
 - [x] 本地初始化仓库
-- [ ] 推送到 GitHub
-- [ ] 开启 GitHub Pages
+- [x] 推送到 GitHub（https://github.com/LanWy2726/hello-github）
+- [x] 开启 GitHub Pages（https://lanwy2726.github.io/hello-github/）
 
 ---
 
