@@ -12,7 +12,7 @@
 | 项目 | 值 |
 | --- | --- |
 | 系统 | Windows 10 IoT Enterprise LTSC |
-| Git | 2.56.0.windows.4，安装在 `D:\installation\GitHub` |
+| Git | 2.56.0.windows.4，安装在 `D:\installation\GitHub\Git` |
 | 默认分支 | `main` |
 | 提交身份 | 惜事旧梦 `<178462168+LanWy2726@users.noreply.github.com>` |
 
